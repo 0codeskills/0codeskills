@@ -52,6 +52,11 @@ My cybersecurity journey was sparked by first-hand encounter and it become my pa
 <img src="https://img.shields.io/badge/-SOC%20Analyst%20L1-808080?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
 
+#### Currrently working on
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20SC--200-00a4ef?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
 ## Projects
 - TBC
 - TBC
