@@ -12,7 +12,7 @@ My cybersecurity journey was sparked by first-hand encounter and it become my pa
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | TBC          | <a href="https://google.com">TBC</a>|
-| TBC | <a href="https://google.com">Detection Lab</a>|
+| TBC | <a href="https://google.com">TBC</a>|
 | TBC         | TBC|
 | TBC      | TBC|
 | TBC                 | TBC|
