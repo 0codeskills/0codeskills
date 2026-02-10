@@ -15,7 +15,7 @@ My cybersecurity journey was sparked by first-hand encounter and it become my pa
 | Data Ingestion with use of data connectors | <a href="https://tryhackme.com/room/sentinelingestdata">Defending Azure - MS Sentinel: Ingest Data</a>|
 | TBC      | TBC|
 | Investigating Incidents with MS Sentinel          | <a href="https://tryhackme.com/room/sentinelinvestigate">Defending Azure - MS Sentinel: Investigate</a>|
-| TBC                 | TBC|
+| Using SpiderFoot OSINT tool for threat intelligence  | <a href="https://github.com/smicallef/spiderfoot">SpiderFoot OSINT tool</a>|
 | TBC | TBC|
 
 ## Tools
