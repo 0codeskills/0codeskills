@@ -11,10 +11,10 @@ My cybersecurity journey was sparked by first-hand encounter and it become my pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Investigating Incidents with MS Sentinel          | <a href="https://tryhackme.com/room/sentinelinvestigate">Defending Azure - MS Sentinel: Investigate</a>|
-| TBC | <a href="https://google.com">TBC</a>|
+| Deploy Log Analytics Workspace with MS Sentinel  | <a href="https://tryhackme.com/room/sentineldeploy">Defending Azure - MS Sentinel: Deploy</a>|
 | TBC         | TBC|
 | TBC      | TBC|
+| Investigating Incidents with MS Sentinel          | <a href="https://tryhackme.com/room/sentinelinvestigate">Defending Azure - MS Sentinel: Investigate</a>|
 | TBC                 | TBC|
 | TBC | TBC|
 
