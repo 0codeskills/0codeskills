@@ -9,7 +9,7 @@ My cybersecurity journey was sparked by first-hand encounter and it become my pa
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Training/Project         |
 |-----------------------------------------------|----------------------------|
 | Deploy Log Analytics Workspace with MS Sentinel  | <a href="https://tryhackme.com/room/sentineldeploy">Defending Azure - MS Sentinel: Deploy</a>|
 | Data Ingestion with use of data connectors | <a href="https://tryhackme.com/room/sentinelingestdata">Defending Azure - MS Sentinel: Ingest Data</a>|
