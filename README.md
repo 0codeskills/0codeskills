@@ -1,5 +1,5 @@
 # Hello, I'm Marek
-<a href="https://www.linkedin.com/in/marek-brys-15b9bb12b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/marek-brys/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professional with a great interest in technology, cybersecurity and dedication to learning new things.
 
