@@ -60,5 +60,7 @@ My cybersecurity journey was sparked by first-hand encounter and it become my pa
 - <a href="https://github.com/0codeskills/OSINT-SpiderFoot">OSINT-SpiderFoot</a>
 - <a href="https://github.com/0codeskills/VPN-set-up">VPN set up [WIP]</a>
 - <a href="https://github.com/0codeskills/Splunk_SOC_Lab_Set_Up">SOC lab set up with Splunk [WIP]</a>
+- <a href="https://github.com/0codeskills/VirusTotal-Investigation">VirusTotal Investigation</a>
+
 
 
